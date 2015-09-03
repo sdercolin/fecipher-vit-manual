@@ -16,9 +16,9 @@ TCG 火焰之纹章０ 网络对战平台 FECipherVit
 
 程序作者：科林/sdercolin   邮箱：sdercolin@outlook.jp
 
-卡牌数据来自在线卡片查询网站：http://fecipher.card.moe/
+卡牌数据来自：http://fecipher.card.moe/
 
-卡牌数据翻译：萨莉雅   新浪微博：http://weibo.com/tcgfe
+卡牌数据翻译：[萨莉雅](http://weibo.com/tcgfe)
 
 鸣谢：随风堕落
 
