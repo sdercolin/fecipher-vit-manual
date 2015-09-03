@@ -20,5 +20,5 @@ TCG 火焰之纹章０ 网络对战平台 FECipherVit
 
 卡牌数据翻译：[萨莉雅](http://weibo.com/tcgfe)
 
-鸣谢：随风堕落
+鸣谢：[SmdCn](http://blog.smdcn.net/)
 
