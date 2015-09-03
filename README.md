@@ -8,7 +8,7 @@ TCG 火焰之纹章０ 网络对战平台 FECipherVit
 
 发布地址：http://fecipher.lofter.com/
 
-![](QQ截图20150903164246.png)
+![](gamepreview.png)
 
 版权：© Nintendo / INTELLIGENT SYSTEMS
 
