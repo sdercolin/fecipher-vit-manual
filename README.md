@@ -6,7 +6,7 @@ TCG 火焰之纹章０ 网络对战平台 FECipherVit
 
 当前版本：1.0
 
-发布地址：http://fecipher.lofter.com/
+发布地址：[lofter](http://fecipher.lofter.com/) [GitHub](https://github.com/sdercolin/FECipherVit)
 
 ![](gamepreview.png)
 
