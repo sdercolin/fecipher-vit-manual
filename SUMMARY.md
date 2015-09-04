@@ -9,5 +9,5 @@
 * [附录](.appendix/resource.md)
    * [其他资源整理](.appendix/resource.md)
    * [常见Q&A](questions.md)
-   * [Hamachi使用方法及常出现的问题](hamachi.md)
+   * [Hamachi使用方法及常见问题](hamachi.md)
 
