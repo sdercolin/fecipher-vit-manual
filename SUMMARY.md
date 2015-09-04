@@ -6,8 +6,8 @@
    * [卡组编辑](manual/deckedit.md)
    * [游戏流程](manual/game.md)
    * [操作说明及快捷键](manual/action.md)
-* [附录](resource.md)
-    * [其他资源整理](resource.md)
-    * [常见Q&A](questions.md)
-    * [Hamachi使用方法及常出现的问题](hamachi.md)
+* [附录](.appendix/resource.md)
+   * [其他资源整理](resource.md)
+   * [常见Q&A](questions.md)
+   * [Hamachi使用方法及常出现的问题](hamachi.md)
 
