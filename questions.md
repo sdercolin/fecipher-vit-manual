@@ -21,3 +21,9 @@ A.游戏中途网络连接断开时，双方可以按下菜单栏"其他"→"恢
 Q.我打不开程序怎么办？
 
 A.请确保您已经安装了 Microsoft .NET Framework 4.0，您可以到[这个页面](http://www.microsoft.com/zh-cn/download/details.aspx?id=17718)下载安装。
+
+---
+
+Q.连接的时候程序报错“由于套接字没有连接………………”。
+
+A.这种情况有可能是Hamachi被windows的防火墙所限制。请关闭windows的防火墙再次尝试。另外，请再次检查您输入的IP地址是否正确。
