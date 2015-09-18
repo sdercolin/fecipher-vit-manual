@@ -1,7 +1,7 @@
 # Summary
 
 * [概要](README.md)
-* [使用说明](manual/install.md)
+* [使用说明]
    * [安装及连接](manual/install.md)
    * [卡组编辑](manual/deckedit.md)
    * [游戏流程](manual/game.md)
