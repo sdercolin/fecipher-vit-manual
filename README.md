@@ -4,7 +4,7 @@ TCG 火焰之纹章０ 网络对战平台 FECipherVit
 实现「TCG 火焰之纹章０」的手动流程网络对战。
 
 
-当前版本：1.58
+当前版本：1.6
 
 发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f) [GitHub](https://github.com/sdercolin/FECipherVit)
 
