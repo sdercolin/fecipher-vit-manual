@@ -1,13 +1,13 @@
-# Summary
+# Table of contents
 
 * [概要](README.md)
-* [使用说明]
-   * [连接](manual/install.md)
-   * [卡组编辑](manual/deckedit.md)
-   * [游戏流程](manual/game.md)
-   * [操作说明及快捷键](manual/action.md)
-* [附录]
-   * [其他资源整理](.appendix/resource.md)
-   * [常见Q&A](questions.md)
-   * [Hamachi使用方法及常见问题](hamachi.md)
+* [\[使用说明\]](shi-yong-shuo-ming/README.md)
+  * [连接](shi-yong-shuo-ming/install.md)
+  * [卡组编辑](shi-yong-shuo-ming/deckedit.md)
+  * [游戏流程](shi-yong-shuo-ming/game.md)
+  * [操作说明及快捷键](shi-yong-shuo-ming/action.md)
+* [\[附录\]](fu-lu/README.md)
+  * [其他资源整理](fu-lu/resource.md)
+  * [常见Q&A](fu-lu/questions.md)
+  * [Hamachi使用方法及常见问题](fu-lu/hamachi.md)
 
