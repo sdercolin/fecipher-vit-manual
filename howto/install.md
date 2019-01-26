@@ -20,7 +20,7 @@ IP地址：123.56.176.97（可能有变动，以此处为准）
 
 **B．玩家间直连**
 
-1. 请确保至少有一方玩家拥有广域网IP地址（不能使用路由器）。否则，您可以使用局域网虚拟软件，如Hamachi。关于Hamachi的使用问题请查看：[Hamachi使用方法及常见问题](../fu-lu/hamachi.md)
+1. 请确保至少有一方玩家拥有广域网IP地址（不能使用路由器）。否则，您可以使用局域网虚拟软件，如Hamachi。关于Hamachi的使用问题请查看：[Hamachi使用方法及常见问题](https://github.com/sdercolin/fecipher-vit-manual/tree/c48cbddbdb3034a2c18a1205b6a389dfd3af2fb4/fu-lu/hamachi.md)
 2. 运行游戏主程序"FECipherVit.exe"，输入玩家的名称。一方先按下“等待连接”。请确保您的IP地址是广域网地址，并获得地址（百度搜索"ip"即可），告知对手。另一方输入IP地址后按下“连接”（端口号为空则默认为9050，若连接不上，请从对手处询问实际分配的端口号），则可以连接到对手。
 
    ![](../.gitbook/assets/connection.png)
