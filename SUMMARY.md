@@ -6,6 +6,8 @@
   * [卡组编辑](shi-yong-shuo-ming/deckedit.md)
   * [游戏流程](shi-yong-shuo-ming/game.md)
   * [操作说明及快捷键](shi-yong-shuo-ming/action.md)
+  * [设置](shi-yong-shuo-ming/she-zhi.md)
+  * [检查更新](shi-yong-shuo-ming/jian-cha-geng-xin.md)
 * [\[附录\]](appendix/README.md)
   * [其他资源整理](appendix/resource.md)
   * [常见Q&A](appendix/questions.md)
