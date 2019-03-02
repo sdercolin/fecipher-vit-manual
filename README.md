@@ -2,13 +2,13 @@
 
 实现「TCG 火焰之纹章０」的手动流程网络对战。
 
-当前版本：3.9.4-beta-2
+当前版本：4.0.0
 
-发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f) [GitHub](https://github.com/sdercolin/FECipherVit)
+发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f) 
+
+版权：© Nintendo / INTELLIGENT SYSTEMS  
 
 ![](.gitbook/assets/preview.png)
-
-版权：© Nintendo / INTELLIGENT SYSTEMS
 
 官网：[http://fecipher.jp/](http://fecipher.jp/)
 
