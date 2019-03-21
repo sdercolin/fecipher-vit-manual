@@ -6,9 +6,9 @@
 
 当前版本：4.0.0
 
-发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f) 
+发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f)
 
-版权：© Nintendo / INTELLIGENT SYSTEMS  
+版权：© Nintendo / INTELLIGENT SYSTEMS
 
 官网：[http://fecipher.jp/](http://fecipher.jp/)
 
