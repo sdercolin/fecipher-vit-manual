@@ -12,11 +12,10 @@
 
 官网：[http://fecipher.jp/](http://fecipher.jp/)
 
-程序作者：科林/sdercolin 邮箱：sder.colin@gmail.com
-
 卡牌数据来自：[http://fecipher.card.moe/](http://fecipher.card.moe/)
 
 卡牌数据翻译：[萨莉雅](http://weibo.com/tcgfe)
 
 鸣谢：[SmdCn](http://blog.smdcn.net/)
 
+联系作者：sder.colin@gmail.com
