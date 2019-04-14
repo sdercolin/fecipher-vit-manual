@@ -4,18 +4,12 @@
 
 ![](.gitbook/assets/preview.png)
 
-当前版本：4.0.0
+当前版本：4.0.2
 
 发布地址：[lofter](http://fecipher.lofter.com/post/1d409908_812d27f)
 
 版权：© Nintendo / INTELLIGENT SYSTEMS
 
 官网：[http://fecipher.jp/](http://fecipher.jp/)
-
-卡牌数据来自：[http://fecipher.card.moe/](http://fecipher.card.moe/)
-
-卡牌数据翻译：[萨莉雅](http://weibo.com/tcgfe)
-
-鸣谢：[SmdCn](http://blog.smdcn.net/)
 
 联系作者：sder.colin@gmail.com
